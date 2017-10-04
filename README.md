@@ -11,9 +11,9 @@ There are basically only 3 commands that I use every day: install a regular pack
 
 1. Clone this repository into `$ZSH_CUSTOM/plugins` (by default `~/.oh-my-zsh/custom/plugins`)
 
-  ```sh
-  git clone git://github.com/iloginow/zsh-paci $ZSH_CUSTOM/plugins/zsh-paci
-  ```
+    ```sh
+    git clone git://github.com/iloginow/zsh-paci $ZSH_CUSTOM/plugins/zsh-paci
+    ```
   
 2. Add the plugin to the list of plugins for Oh My Zsh to load:
 
@@ -27,15 +27,15 @@ There are basically only 3 commands that I use every day: install a regular pack
 
 1. Clone this repository somewhere on your machine. For example: `~/.zsh/zsh-paci`.
 
-  ```sh
-  git clone git://github.com/iloginow/zsh-paci ~/.zsh/zsh-paci
-  ```
+    ```sh
+    git clone git://github.com/iloginow/zsh-paci ~/.zsh/zsh-paci
+    ```
 
 2. Add this to your .zshrc:
 
-  ```sh
-  source ~/.zsh/zsh-paci/zsh-paci.zsh
-  ```
+    ```sh
+    source ~/.zsh/zsh-paci/zsh-paci.zsh
+    ```
 
 3. Start a new terminal session.
 
