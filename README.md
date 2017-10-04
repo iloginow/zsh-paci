@@ -47,3 +47,8 @@ paci | Install a regular package with pacman
 auri | Install an AUR package with packer
 pacu | Uninstall a package and its dependencies
 upgrade | Update all packages (both AUR and regular)
+
+## License
+
+This plugin is licensed under [MIT license](http://opensource.org/licenses/MIT).
+For the full text of the license, see the [LICENSE](LICENSE) file.
