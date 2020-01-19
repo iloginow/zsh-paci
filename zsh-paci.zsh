@@ -1,8 +1,8 @@
-alias auri='packer -S --noconfirm --noedit'
+alias auri='yay -Sy --nodiffmenu --save'
 
 upgrade() {
   sudo pacman -Syu --noconfirm;
-  packer -Syu --noconfirm --noedit;
+  yay -Syu --nodiffmenu --save;
 }
 
 alias upgrade='upgrade'
