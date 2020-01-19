@@ -1,6 +1,6 @@
 alias auri='yay -Sy --nodiffmenu --save'
 
-upgrade() {
+function upgrade {
   sudo pacman -Syu --noconfirm;
   yay -Syu --nodiffmenu --save;
 }
